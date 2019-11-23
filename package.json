@@ -1,0 +1,23 @@
+{
+  "name": "rest-cli",
+  "version": "1.0.0",
+  "description": "REST command line interface",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adi/rest-cli.git"
+  },
+  "keywords": [
+    "rest",
+    "cli"
+  ],
+  "author": "Adrian Punga <adrian.punga@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adi/rest-cli/issues"
+  },
+  "homepage": "https://github.com/adi/rest-cli#readme"
+}
